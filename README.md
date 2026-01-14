@@ -42,3 +42,7 @@ rather than small demo applications.
 
 - **CI/CD Pipeline Overview**  
   [cicd/pipeline-overview.md](cicd/pipeline-overview.md)
+  
+## Code Demos
+- Secure Auth Service Demo (JWT, RBAC, httpOnly refresh cookie, tests)
+  https://github.com/sharemi/secure-auth-service-demo
